@@ -2,7 +2,7 @@
   "name": "spacial",
   "displayName": "spacial",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.78.0"
   },
@@ -38,6 +38,7 @@
       }
     ]
   },
+  "icon": "img/spacial.jpg",
   "author": {
     "name": "Yes Dev",
     "email": "yesdev19@gmail.com"
