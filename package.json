@@ -1,0 +1,49 @@
+{
+  "name": "spacial",
+  "displayName": "spacial",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Spacial",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Spacial-color-theme.json"
+      },
+      {
+        "label": "Spacial Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Spacial-Dark-color-theme.json"
+      },
+      {
+        "label": "Spacial Mixed",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Spacial-Mixed-color-theme.json"
+      },
+      {
+        "label": "Spacial Dark World",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Spacial-Dark-World-color-theme.json"
+      }
+    ]
+  },
+  "author": {
+    "name": "Yes Dev",
+    "email": "yesdev19@gmail.com"
+  },
+  "repository": {
+    "url": "https://github.com/yesomac/MinimalTheme.git",
+    "type": "git"
+  },
+  "publisher": "YesCode",
+  "license": "MIT",
+  "dependencies": {
+    "vsce": "^2.15.0"
+  }
+}
