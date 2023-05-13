@@ -2,7 +2,7 @@
   "name": "spacial",
   "displayName": "spacial",
   "description": "",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.78.0"
   },
@@ -20,6 +20,16 @@
         "label": "Spacial S",
         "uiTheme": "vs-dark",
         "path": "./themes/Spacial-S-color-theme.json"
+      },
+      {
+        "label": "Spacial T",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Spacial-Dark-World-t-color-theme.json"
+      },
+      {
+        "label": "Spacial U",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Spacial-u-color-theme.json"
       },
       {
         "label": "Spacial Dark",
