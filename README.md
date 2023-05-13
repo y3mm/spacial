@@ -1,16 +1,11 @@
-# spacial README
+# spacial
 
-## Working with Markdown
+![this is a image](https://github.com/y3mm/spacial/blob/main/img/spacial1.png?raw=true)
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+![this is a image](https://github.com/y3mm/spacial/blob/main/img/spacial2.png?raw=true)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+![this is a image](https://github.com/y3mm/spacial/blob/main/img/spacial3.png?raw=true)
 
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+![this is a image](https://github.com/y3mm/spacial/blob/main/img/spacial4.png?raw=true)
 
 **Enjoy!**
