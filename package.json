@@ -2,7 +2,7 @@
   "name": "spacial",
   "displayName": "spacial",
   "description": "",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "engines": {
     "vscode": "^1.78.0"
   },
@@ -35,6 +35,11 @@
         "label": "Spacial Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/Spacial-Dark-color-theme.json"
+      },
+      {
+        "label": "Spacial Dark S",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Spacial-Dark-s-color-theme.json"
       },
       {
         "label": "Spacial Mixed",
